@@ -1,6 +1,6 @@
 # bmicalculater
 
-A new Flutter project.
+A new Flutter project to calculate the BMI according to height , weight and age .
 
 ## Getting Started
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+https://github.com/user-attachments/assets/50e43af1-2d4e-4d7c-abbc-13758a7b5d11
+
