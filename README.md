@@ -13,7 +13,6 @@ https://github.com/user-attachments/assets/1d4452fa-d310-4cf9-84a4-d27cbf04722c
 - Input fields for height, weight, and age
 - BMI calculation using the standard formula
 - Display of BMI result with interpretation
-- Responsive and user-friendly interface
 
 ## 📂 Project Structure
 
