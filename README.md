@@ -1,20 +1,62 @@
-# bmicalculater
+# 🧮 BMI Calculator Flutter App
 
-A new Flutter project to calculate the BMI according to height , weight and age .
+A simple Flutter application that calculates the Body Mass Index (BMI) based on user input for height, weight, and age.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Preview
 
 
-https://github.com/user-attachments/assets/50e43af1-2d4e-4d7c-abbc-13758a7b5d11
+https://github.com/user-attachments/assets/1d4452fa-d310-4cf9-84a4-d27cbf04722c
 
+
+## 🚀 Features
+
+- Input fields for height, weight, and age
+- BMI calculation using the standard formula
+- Display of BMI result with interpretation
+- Responsive and user-friendly interface
+
+## 📂 Project Structure
+
+```
+lib/
+├── main.dart           # Entry point of the application
+```
+
+## 🧰 Dependencies
+
+- [`flutter`](https://flutter.dev/)
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Compatible IDE (e.g., VS Code, Android Studio)
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/RokiyaAbdElsatar/BMI-calculator-flutter.git
+   cd BMI-calculator-flutter
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app:**
+   ```bash
+   flutter run
+   ```
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
